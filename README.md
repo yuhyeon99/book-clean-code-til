@@ -8,27 +8,27 @@
 
 ### **Week 1**
 
-* [week1/day01-book-proof.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week1/day01-book-proof.md) — 책 인증
-* [week1/day02-ch01-clean-code.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week1/day02-ch01-clean-code.md) — 1장. 깨끗한 코드
-* [week1/day03-ch02-meaningful-names.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week1/day03-ch02-meaningful-names.md) — 2장. 의미있는 이름
-* [week1/day04-ch03-functions.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week1/day04-ch03-functions.md) — 3장. 함수
-* [week1/day05-ch04-comments.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week1/day05-ch04-comments.md) — 4장. 주석
+* [week1/day01-book-proof.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1/day01-book-proof.md) — 책 인증
+* [week1/day02-ch01-clean-code.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1/day02-ch01-clean-code.md) — 1장. 깨끗한 코드
+* [week1/day03-ch02-meaningful-names.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1/day03-ch02-meaningful-names.md) — 2장. 의미있는 이름
+* [week1/day04-ch03-functions.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1blobday04-ch03-functions.md) — 3장. 함수
+* [week1/day05-ch04-comments.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1/day05-ch04-comments.md) — 4장. 주석
 
 ### **Week 2**
 
-* [week2/day06-review-01.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week2/day06-review-01.md) — 복습 및 실전 적용 미션
-* [week2/day07-ch05-formatting.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week2/day07-ch05-formatting.md) — 5장. 형식 맞추기
-* [week2/day08-ch06-objects-vs-data.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week2/day08-ch06-objects-vs-data.md) — 6장. 객체와 자료구조
-* [week2/day09-review-02.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week2/day09-review-02.md) — 복습 및 퀴즈(1)
-* [week2/day10-ch07-error-handling.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week2/day10-ch07-error-handling.md) — 7장. 오류처리
-* [week2/day11-ch09-unit-tests.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week2/day11-ch09-unit-tests.md) — 9장. 단위 테스트
+* [week2/day06-review-01.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week2/day06-review-01.md) — 복습 및 실전 적용 미션
+* [week2/day07-ch05-formatting.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week2/day07-ch05-formatting.md) — 5장. 형식 맞추기
+* [week2/day08-ch06-objects-vs-data.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week2/day08-ch06-objects-vs-data.md) — 6장. 객체와 자료구조
+* [week2/day09-review-02.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week2/day09-review-02.md) — 복습 및 퀴즈(1)
+* [week2/day10-ch07-error-handling.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week2/day10-ch07-error-handling.md) — 7장. 오류처리
+* [week2/day11-ch09-unit-tests.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week2/day11-ch09-unit-tests.md) — 9장. 단위 테스트
 
 ### **Week 3**
 
-* [week3/day12-review-03.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week3/day12-review-03.md) — 복습 및 퀴즈(2)
-* [week3/day13-ch10-classes.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week3/day13-ch10-classes.md) — 10장. 클래스
-* [week3/day14-review-04.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week3/day14-review-04.md) — 복습 및 실전 적용 미션
-* [week3/day15-final-mission.md](https://github.com/yuhyeon99/book-clean-code-til/edit/main/week3/day15-final-mission.md) — 최종 미션
+* [week3/day12-review-03.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week3/day12-review-03.md) — 복습 및 퀴즈(2)
+* [week3/day13-ch10-classes.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week3/day13-ch10-classes.md) — 10장. 클래스
+* [week3/day14-review-04.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week3/day14-review-04.md) — 복습 및 실전 적용 미션
+* [week3/day15-final-mission.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week3/day15-final-mission.md) — 최종 미션
 
 ---
 
