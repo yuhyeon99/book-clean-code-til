@@ -11,7 +11,7 @@
 * [week1/day01-book-proof.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1/day01-book-proof.md) — 책 인증
 * [week1/day02-ch01-clean-code.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1/day02-ch01-clean-code.md) — 1장. 깨끗한 코드
 * [week1/day03-ch02-meaningful-names.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1/day03-ch02-meaningful-names.md) — 2장. 의미있는 이름
-* [week1/day04-ch03-functions.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1blobday04-ch03-functions.md) — 3장. 함수
+* [week1/day04-ch03-functions.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1/day04-ch03-functions.md) — 3장. 함수
 * [week1/day05-ch04-comments.md](https://github.com/yuhyeon99/book-clean-code-til/blob/main/week1/day05-ch04-comments.md) — 4장. 주석
 
 ### **Week 2**
